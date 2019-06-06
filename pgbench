@@ -1,0 +1,1 @@
+pgbench.exe -U postgres -c 100 -j 4 -t 10000 -P 5 -r
